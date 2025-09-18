@@ -1,0 +1,9 @@
+osmnx
+geopandas
+earthengine-api
+folium
+geemap
+requests
+rasterstats
+pandas
+scikit-learn
