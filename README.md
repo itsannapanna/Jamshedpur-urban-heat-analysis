@@ -1,12 +1,12 @@
 # Jamshedpur-urban-heat-analysis
 A geospatial data science project to identify and analyze urban heat islands in Jamshedpur using satellite imagery.
 
-## ## Live Demo
+## Live Demo
 **[View the Interactive Heat Risk Map Here](https://itsannapanna.github.io/Jamshedpur-urban-heat-analysis/output/Jamshedpur_Heat_Risk_Map.html)**
 
 ---
 
-## ## Problem Statement
+## Problem Statement
 
 Urban areas can be significantly warmer than surrounding rural areas due to human activity and infrastructure. This project aims to answer:
 * Which wards in Jamshedpur are most affected by the urban heat island effect?
@@ -15,7 +15,7 @@ Urban areas can be significantly warmer than surrounding rural areas due to huma
 
 ---
 
-## ## Tech Stack & Data
+## Tech Stack & Data
 
 * **Programming:** Python
 * **Libraries:** Geopandas, Pandas, Rasterio, Scikit-learn, Folium
@@ -26,7 +26,7 @@ Urban areas can be significantly warmer than surrounding rural areas due to huma
 
 ---
 
-## ## Key Findings
+## Key Findings
 
 * A strong negative correlation was found between average temperature and vegetation index (NDVI) at the ward level.
 * Wards with high population density and industrial zones showed significantly higher average temperatures.
