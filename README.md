@@ -2,7 +2,7 @@
 A geospatial data science project to identify and analyze urban heat islands in Jamshedpur using satellite imagery.
 
 ## Live Demo
-**[View the Interactive Heat Risk Map Here](https://itsannapanna.github.io/output/Jamshedpur_Heat_Risk_Map.html)**
+**[View the Interactive Heat Risk Map Here](https://itsannapanna.github.io/Jamshedpur-urban-heat-analysis/output/Jamshedpur_Heat_Risk_Map.html)**
 
 
 ---
